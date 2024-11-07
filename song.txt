@@ -2,3 +2,5 @@ line 1
 line 2
 one more line
 here are
+
+i would like to add some text
